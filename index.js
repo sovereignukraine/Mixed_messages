@@ -1,7 +1,7 @@
 //Foresight project
 let container = {
-    when: ['Tomorrow', 'The day after tomorrow', 'On the weekend', 'Next week', 'Next month', 'Next year'],
-    cond: ['you will have', 'will be', 'you will got', 'you will lose', 'you will not have'],
+    when: ['Tomorrow', 'The day after tomorrow', 'Next week', 'Next month', 'Next year'],
+    cond: ['you will have', 'will bring', 'you will got', 'you will find', ],
     what: ['big luck', 'small problems', 'tragedy', 'fantastic progress in your work', 'super profit', 'some shity thing']
 };
 
