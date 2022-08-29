@@ -14,4 +14,5 @@ function foresight (obj){
     console.log(`${phrase.join(' ')}.`);
 }
 
+
 foresight(container);
